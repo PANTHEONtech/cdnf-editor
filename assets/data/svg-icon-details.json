@@ -1,47 +1,47 @@
 [
   {
     "iconName": "logo",
-    "svgFilePath": "/assets/icons/logo.svg"
+    "svgFilePath": "assets/icons/logo.svg"
   },
   {
     "iconName": "logoText",
-    "svgFilePath": "/assets/icons/logo-text.svg"
+    "svgFilePath": "assets/icons/logo-text.svg"
   },
   {
     "iconName": "logout",
-    "svgFilePath": "/assets/icons/logout.svg"
+    "svgFilePath": "assets/icons/logout.svg"
   },
   {
     "iconName": "warning",
-    "svgFilePath": "/assets/icons/warning-24px.svg"
+    "svgFilePath": "assets/icons/warning-24px.svg"
   },
   {
     "iconName": "more-vert",
-    "svgFilePath": "/assets/icons/more_vert-24px.svg"
+    "svgFilePath": "assets/icons/more_vert-24px.svg"
   },
   {
     "iconName": "sync",
-    "svgFilePath": "/assets/icons/download-24px.svg"
+    "svgFilePath": "assets/icons/download-24px.svg"
   },
   {
     "iconName": "import",
-    "svgFilePath": "/assets/icons/folder_open-24px.svg"
+    "svgFilePath": "assets/icons/folder_open-24px.svg"
   },
   {
     "iconName": "export",
-    "svgFilePath": "/assets/icons/save-24px.svg"
+    "svgFilePath": "assets/icons/save-24px.svg"
   },
   {
     "iconName": "validate",
-    "svgFilePath": "/assets/icons/check_circle_outline-24px.svg"
+    "svgFilePath": "assets/icons/check_circle_outline-24px.svg"
   },
   {
     "iconName": "apply",
-    "svgFilePath": "/assets/icons/upload-24px.svg"
+    "svgFilePath": "assets/icons/upload-24px.svg"
   },
   {
     "iconName": "refresh",
-    "svgFilePath": "/assets/icons/refresh-24px.svg"
+    "svgFilePath": "assets/icons/refresh-24px.svg"
   }
 
 
