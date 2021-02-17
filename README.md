@@ -2,7 +2,7 @@
 
 YAML configuration editor with YAML and JSON schema validation and YAML example generation
 
-1. Go to <link>
+1. Go to https://pantheontech.github.io/cdnf-editor
 2. Import a valid draft-04 JSON schema or use /examples/schema.json in JSON Schema tab
 3. Have a look at the generated Example YAML code
 4. Import/copy-paste /examples/invalid-yaml.yaml into Configuration window
