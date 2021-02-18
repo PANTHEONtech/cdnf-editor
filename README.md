@@ -4,6 +4,15 @@ This is an open-source, YAML configuration editor & verification tool.
 
 [The editor is availble on the official website.](https://pantheontech.github.io/cdnf-editor/)
 
+### Important!
+
+The JSON Schema specification [recommends to use](https://json-schema.org/understanding-json-schema/structuring.html?highlight=ref) the _definitions_ key, where all definitions should be located. Then, you should use a _relative path_ to point to the definitions. 
+
+Our implementation [of the JSON schema requires](https://json-schema.org/understanding-json-schema/structuring.html?highlight=ref#using-id-with-ref) a _definitions_ object, if the _ref ID_ links to a definition and does not use a relative path. 
+
+* __Supported__: JSON Schema draft-04 [(and included features, such as valid formats, etc.)](https://json-schema.org/understanding-json-schema/reference/string.html#format)
+* __Not supported__: Loading definitions from external URIs 
+
 ## Features
 
 * YAML & JSON Schema Validation
