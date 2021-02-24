@@ -1,23 +1,23 @@
 [
   {
     "iconName": "logo",
-    "svgFilePath": "/assets/icons/logo.svg"
+    "svgFilePath": "assets/icons/logo.svg"
   },
   {
     "iconName": "warning",
-    "svgFilePath": "/assets/icons/warning-24px.svg"
+    "svgFilePath": "assets/icons/warning-24px.svg"
   },
   {
     "iconName": "more-vert",
-    "svgFilePath": "/assets/icons/more_vert-24px.svg"
+    "svgFilePath": "assets/icons/more_vert-24px.svg"
   },
   {
     "iconName": "import",
-    "svgFilePath": "/assets/icons/folder_open-24px.svg"
+    "svgFilePath": "assets/icons/folder_open-24px.svg"
   },
   {
     "iconName": "export",
-    "svgFilePath": "/assets/icons/save-24px.svg"
+    "svgFilePath": "assets/icons/save-24px.svg"
   },
   {
     "iconName": "arrow-down",
